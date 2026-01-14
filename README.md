@@ -14,7 +14,7 @@ Official repository for the **+57** token. This project includes the smart contr
 
 ## 🤖 TELEGRAM BOT
 Automated community management and airdrop registration.
-* **Bot:** [Comunidad57_bot](https://t.me/Comunidad57_bot)
+* **Bot:** [Comunidad57_bot](https://t.me/Token57bot)
 * **Features:** English interface, wallet validation, and contract tracking.
 * **Code:** Located in the `/bot` folder.
 
