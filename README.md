@@ -1,4 +1,4 @@
-# 📲 +57 Ecosystem (PLUS57) | Verified Infrastructure
+# 📲 +57 Ecosystem (+57) | Verified Infrastructure
 
 [![Blockchain: Polygon](https://img.shields.io/badge/Blockchain-Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)](https://polygonscan.com/token/0xc9b356b1dBf3750F5EC401c9cE2C2746d79391eE)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
