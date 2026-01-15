@@ -1,7 +1,17 @@
-wallets.txt
+# Archivos de Claves y Privacidad
 .env
-venv/
-__pycache__/
-*.pyc
-.history
+wallets.txt
+*.private
+private_key.txt
+
+# Carpetas de Código Innecesario
 bot/
+__pycache__/
+venv/
+node_modules/
+
+# Archivos de Compilación y Logs
+*.bin
+*.abi
+*.log
+.history
