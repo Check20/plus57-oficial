@@ -1,23 +1,25 @@
-# 📲 +57 Ecosystem (PLUS57) | Official Infrastructure
+# 📲 +57 Ecosystem (PLUS57) | Verified Infrastructure
 
-Official repository for the **+57** token, a community-driven asset deployed on the **Polygon (PoS)** network. This project focuses on transparency, scalability, and strategic alliances within the Web3 space.
+[![Blockchain: Polygon](https://img.shields.io/badge/Blockchain-Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)](https://polygonscan.com/token/0xc9b356b1dBf3750F5EC401c9cE2C2746d79391eE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Solidity: 0.8.18](https://img.shields.io/badge/Solidity-0.8.18-363636?style=for-the-badge&logo=solidity)](https://soliditylang.org/)
 
-## 💰 Tokenomics & Technical Specs
-* **Name:** +57
+The **+57 Ecosystem** is a high-performance, decentralized asset infrastructure deployed on the **Polygon (PoS)** network. Designed for institutional-grade alliances and community utility.
+
+## 💎 Institutional Tokenomics
 * **Symbol:** PLUS57
-* **Total Supply:** 7,000,000 FIXED (Non-mintable)
-* **Network:** Polygon Mainnet
-* **Contract Address:** [0xc9b356b1dBf3750F5EC401c9cE2C2746d79391eE](https://polygonscan.com/token/0xc9b356b1dBf3750F5EC401c9cE2C2746d79391eE)
-* **Verified Compiler:** v0.8.18 (Mainnet)
+* **Circulating Supply:** 7,000,000 (Hard-capped)
+* **Contract:** `0xc9b356b1dBf3750F5EC401c9cE2C2746d79391eE`
+* **Governance:** Fixed supply logic ensures zero inflation and maximum scarcity.
 
-## 🛡️ Security & Transparency
-* **Contract Status:** Verified on PolygonScan.
-* **Architecture:** Based on OpenZeppelin industry standards.
-* **Development Note:** While the mainnet contract was verified with v0.8.18, the local build artifacts in this repository use solc v0.8.33 for modern environment compatibility.
+## 🛠️ Engineering Assets
+* **Official Contract:** [`contracts/Plus57_V2.sol`](./contracts/Plus57_V2.sol) - Exact Match with On-Chain Bytecode.
+* **Developer ABI:** [`Plus57_ABI.json`](./Plus57_ABI.json) - Production-ready interface.
+* **Architecture:** Modular and organized into `/docs`, `/contracts`, and `/scripts`.
 
-## 🛠️ Build & Integration
-* **ABI:** Available in `Plus57_ABI.json` for dApp integration.
-* **Build Metadata:** Comprehensive data included in `plus57_build.json`.
+## 📖 Documentation
+* [Official Whitepaper](./docs/WHITEPAPER.md)
+* [Integration Guide](./docs/INSTALL.md)
 
 ---
-© 2026 - Check20 | +57 Ecosystem
+© 2026 Check20 | Built for the Global Digital Economy.
