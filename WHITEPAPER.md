@@ -1,28 +1,21 @@
-# 📲 Whitepaper: +57 Ecosystem (PLUS57)
+# 📲 Whitepaper: +57 Ecosystem
 
-## Introducción
-El **Ecosistema +57** es un proyecto de infraestructura descentralizada desarrollado sobre la red de **Polygon (PoS)**. Nuestro objetivo es fortalecer la economía digital y las alianzas estratégicas mediante un activo seguro, transparente y de suministro fijo, diseñado específicamente para la comunidad Web3.
+## 1. Introduction
+The **+57 Ecosystem** is a decentralized project built on the **Polygon (PoS)** network. It is designed to bridge the gap between physical commerce and the blockchain through strategic alliances and a transparent, fixed-supply asset.
 
-## Visión
-Buscamos ser el puente entre el mundo físico y el ecosistema blockchain, facilitando la adopción de criptoactivos en comercios, empresas y comunidades a través de alianzas que den utilidad real al token **+57**.
+## 2. Vision
+Our goal is to foster Web3 adoption by creating a reliable ecosystem where the **+57** token serves as a utility and value-exchange tool for partner businesses and digital communities.
 
-## Tokenomics (Información Real)
-Los parámetros del token han sido establecidos de forma definitiva en la blockchain:
-* **Nombre:** +57
-* **Símbolo:** PLUS57
-* **Red:** Polygon (PoS)
-* **Contrato:** 0xc9b356b1dBf3750F5EC401c9cE2C2746d79391eE
-* **Suministro Total:** 7,000,000 PLUS57 (Fijo, no emitible).
-* **Decimales:** 18
+## 3. Verified Tokenomics
+* **Asset:** +57 (PLUS57)
+* **Supply:** 7,000,000 (Hard-capped, no inflation).
+* **Blockchain:** Polygon (PoS) for low fees and high-speed transactions.
+* **Security:** Immutable contract logic verified on-chain.
 
-## Hoja de Ruta (Roadmap Actualizado)
-* **Fase 1:** Lanzamiento oficial y despliegue del contrato en Polygon Mainnet (Completado).
-* **Fase 2:** Verificación de código y apertura del repositorio técnico para transparencia (En curso).
-* **Fase 3:** Consolidación de alianzas estratégicas y puntos de aceptación del ecosistema.
-* **Fase 4:** Integración de herramientas de utilidad y expansión regional.
-
-## Seguridad y Transparencia
-El contrato de **+57** ha sido verificado en [Polygonscan](https://polygonscan.com/token/0xc9b356b1dBf3750F5EC401c9cE2C2746d79391eE), garantizando que el código es inmutable y que el suministro total cumple con los estándares de confianza de nuestra comunidad.
+## 4. Roadmap
+* **Phase 1:** Official Launch and Mainnet Deployment (Completed).
+* **Phase 2:** Technical Documentation and Open Source Repository (In Progress).
+* **Phase 3:** Strategic Partnership Acquisition and Utility Integration.
 
 ---
-© 2026 - Documentación Oficial Ecosistema +57
+© 2026 - Official +57 Documentation
