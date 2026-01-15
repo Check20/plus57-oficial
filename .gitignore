@@ -1,17 +1,9 @@
-# Archivos de Claves y Privacidad
-.env
-wallets.txt
-*.private
-private_key.txt
-
-# Carpetas de Código Innecesario
-bot/
-__pycache__/
-venv/
+.*
+!/.gitignore
 node_modules/
-
-# Archivos de Compilación y Logs
-*.bin
-*.abi
-*.log
-.history
+venv/
+bot/
+wallets.txt
+.env
+*.pyc
+__pycache__/
