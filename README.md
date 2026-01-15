@@ -7,7 +7,7 @@
 The **+57 Ecosystem** is a high-performance, decentralized asset infrastructure deployed on the **Polygon (PoS)** network. Designed for institutional-grade alliances and community utility.
 
 ## 💎 Institutional Tokenomics
-* **Symbol:** PLUS57
+* **Symbol:** +57
 * **Circulating Supply:** 7,000,000 (Hard-capped)
 * **Contract:** `0xc9b356b1dBf3750F5EC401c9cE2C2746d79391eE`
 * **Governance:** Fixed supply logic ensures zero inflation and maximum scarcity.
