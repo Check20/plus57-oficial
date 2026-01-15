@@ -1,2 +1,7 @@
 wallets.txt
+.env
+venv/
 __pycache__/
+*.pyc
+.history
+bot/
