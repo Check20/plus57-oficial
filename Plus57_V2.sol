@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.18;
+pragma solidity ^0.8.18;
 
 contract Plus57_V2 {
     string public name = "+57";
