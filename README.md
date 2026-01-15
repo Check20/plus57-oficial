@@ -1,30 +1,23 @@
-# 📲 +57 Ecosystem | Smart Contract Infrastructure
+# 📲 +57 Ecosystem (PLUS57) | Official Infrastructure
 
-Official repository for the **+57** token, a community-driven asset deployed on the **Polygon (PoS)** network. This project demonstrates high standards in smart contract development, security protocols, and decentralized finance (DeFi) architecture.
+Official repository for the **+57** token, a community-driven asset deployed on the **Polygon (PoS)** network. This project focuses on transparency, scalability, and strategic alliances within the Web3 space.
 
-## 💰 Tokenomics & Technical Specifications
-* **Asset Name:** +57
+## 💰 Tokenomics & Technical Specs
+* **Name:** +57
+* **Symbol:** PLUS57
 * **Total Supply:** 7,000,000 FIXED (Non-mintable)
-* **Network:** Polygon PoS
-* **Contract Address:** `0xc9b356b1dbf3750f5ec401c9ce2c2746d79391ee`
-* **Decimals:** 18
+* **Network:** Polygon Mainnet
+* **Contract Address:** [0xc9b356b1dBf3750F5EC401c9cE2C2746d79391eE](https://polygonscan.com/token/0xc9b356b1dBf3750F5EC401c9cE2C2746d79391eE)
+* **Verified Compiler:** v0.8.18 (Mainnet)
 
-## 🛠️ Technology Stack
-* **Language:** Solidity 0.8.18 (Plus57_V2.sol)
-* **Framework:** Python for auditing and deployment scripts.
-* **Environment:** CLI-based development with strict security standards.
+## 🛡️ Security & Transparency
+* **Contract Status:** Verified on PolygonScan.
+* **Architecture:** Based on OpenZeppelin industry standards.
+* **Development Note:** While the mainnet contract was verified with v0.8.18, the local build artifacts in this repository use solc v0.8.33 for modern environment compatibility.
 
-## 🛡️ Security & Best Practices
-This repository follows industry-standard security measures:
-* **Secrets Management:** Implementation of `.env` files and `.gitignore` to prevent credential leakage.
-* **Liquidity:** Liquidity pool management focused on community trust.
-* **Architecture:** Modular contract design for gas efficiency on the EVM.
-
-## 🚀 Deployment & Usage
-The contract is verified on **Polygonscan**. To interact with the ecosystem:
-1. Review the `Plus57_V2.sol` source code.
-2. Verify contract ownership and supply via the official explorer.
-3. Integration scripts (Python/Web3) are maintained in private environments for security.
+## 🛠️ Build & Integration
+* **ABI:** Available in `Plus57_ABI.json` for dApp integration.
+* **Build Metadata:** Comprehensive data included in `plus57_build.json`.
 
 ---
-© Copyright 2026 - Check20
+© 2026 - Check20 | +57 Ecosystem
